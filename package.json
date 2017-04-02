@@ -42,7 +42,8 @@
     "domready": "0.x",
     "bean": "0.x",
     "bonzo": "1.x",
-    "reqwest": "0.x"
+    "reqwest": "0.x",
+		"jquery": ">=1.7.0 <4.0.0"
   },
   "devDependencies": {
     "grunt": "*",
