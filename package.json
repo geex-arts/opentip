@@ -43,7 +43,7 @@
     "bean": "0.x",
     "bonzo": "1.x",
     "reqwest": "0.x",
-		"jquery": ">=1.7.0 <4.0.0"
+    "jquery": ">=1.7.0 <4.0.0"
   },
   "devDependencies": {
     "grunt": "*",
