@@ -4,7 +4,7 @@
   "description": "Free opensource tooltip class.",
   "keywords": [ "tooltip" ],
   "homepage": "http://www.opentip.org",
-  "main": "index.js",
+  "main": "./lib/opentip.js",
   "maintainers": [
     {
       "name": "Matias Meno",
