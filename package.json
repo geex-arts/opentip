@@ -4,10 +4,7 @@
   "description": "Free opensource tooltip class.",
   "keywords": [ "tooltip" ],
   "homepage": "http://www.opentip.org",
-  "main": [
-    "./lib/opentip.js",
-    "./lib/adapter.ender.js"
-  ],
+  "main": "index.js",
   "maintainers": [
     {
       "name": "Matias Meno",
